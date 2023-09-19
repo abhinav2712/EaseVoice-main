@@ -85,10 +85,10 @@ cd ../client && npm start
 ## Contact Me! 📢
 If you have any suggestions, issues or suggestions, I am open to all, you can contact me anytime:
 
-College Mail: abhinav.kumar19@learner.manipal.edu
-Personal Mail: abhinav.kumar2712@gmail.com
-Portfolio Webiste: https://abhinavkumar2712.vercel.app
-LinkedIn: https://www.linkedin.com/in/abhinav-kumar-9639b4143/
+- College Mail: abhinav.kumar19@learner.manipal.edu
+- Personal Mail: abhinav.kumar2712@gmail.com
+- Portfolio Webiste: https://abhinavkumar2712.vercel.app
+- LinkedIn: https://www.linkedin.com/in/abhinav-kumar-9639b4143/
 
 Your input is valuable in making EaseVoice the best it can be.
 
