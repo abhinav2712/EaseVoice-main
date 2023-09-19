@@ -26,6 +26,13 @@ EaseVoice is a comprehensive digital invoicing platform designed to simplify the
   
 - Order Placement: Once you're satisfied with your cart, effortlessly place your order and proceed with your purchase.(This feature is still in developing process)
 
+
+## Video Demonstration:
+
+
+https://github.com/abhinav2712/EaseVoice-Plotline/assets/68495520/42be5e8e-0fdf-4348-9357-7c16985f1eeb
+
+
 ## Getting Started 🚗
 To get started with EaseVoice, follow these steps:
 
