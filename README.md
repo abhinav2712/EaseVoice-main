@@ -2,8 +2,11 @@
 
 # EaseVoice - Your Ultimate Invoicing Solution 🚀
 Deployed Link: http://lnkiy.in/easevoice
-
+This Link will redirect you to the login page, please use these credentials to login:
+UserID: 1
+Password: 123456
 (Use this if previous link doesnt works: https://lazy-cyan-cape-buffalo-cape.cyclic.cloud/login )
+
 
 Welcome to EaseVoice, your go-to MERN (MongoDB, Express.js, React.js, Node.js) app for effortless invoicing and seamless shopping. Say goodbye to invoicing headaches and hello to a smooth, user-friendly experience!
 
