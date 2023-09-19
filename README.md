@@ -37,12 +37,12 @@ cd easevoice
 ```
 3) Install the necessary dependencies for both the server and client.
 ```
-cd server && npm install
+npm install
 cd ../client && npm install
 ```
 4)Start the server.
 ```
-cd ../server && npm start
+ npm start
 ```
 5)Start the client.
 ```
