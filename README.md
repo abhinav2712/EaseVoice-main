@@ -2,10 +2,11 @@
 
 # EaseVoice - Your Ultimate Invoicing Solution 🚀
 Deployed Link: http://lnkiy.in/easevoice
-This Link will redirect you to the login page, please use these credentials to login:
-UserID: 1
-Password: 123456
-(Use this if previous link doesnt works: https://lazy-cyan-cape-buffalo-cape.cyclic.cloud/login )
+
+-This Link will redirect you to the login page, please use these credentials to login:
+   - UserID: 1
+   - Password: 123456
+- (Use this if previous link doesnt works: https://lazy-cyan-cape-buffalo-cape.cyclic.cloud/login )
 
 
 Welcome to EaseVoice, your go-to MERN (MongoDB, Express.js, React.js, Node.js) app for effortless invoicing and seamless shopping. Say goodbye to invoicing headaches and hello to a smooth, user-friendly experience!
@@ -15,7 +16,7 @@ EaseVoice is a comprehensive digital invoicing platform designed to simplify the
 
 - User Authentication: Users can easily create their account and login and start experiencing the application.
 
-- Effortless Shopping: Add or remove items from your cart with just a click. Enjoy a hassle-free shopping experience.
+- Effortless Shopping: At Top Right, click on the Cart Icon to get to the cart page. Add or remove items from your cart with just a click. Enjoy a hassle-free shopping experience.
 
 - Transparent Billing: The platform provides a transparent billing system, displaying the price, quantity, and tax on each item. It also calculates the total value of selected items in real-time.
 
