@@ -1,0 +1,33 @@
+{
+  "name": "easevoice",
+  "version": "1.0.0",
+  "description": "digitalized invoicing system",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js",
+    "client": "npm start --prefix client",
+    "dev": "concurrently \"npm start\" \"npm run client\"",
+    "seed": "node seeder.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhinav2712/EaseVoice.git"
+  },
+  "author": "abhinav",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abhinav2712/EaseVoice/issues"
+  },
+  "homepage": "https://github.com/abhinav2712/EaseVoice#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "colors": "^1.4.0",
+    "concurrently": "^8.2.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^7.5.1",
+    "morgan": "^1.10.0"
+  }
+}
