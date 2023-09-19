@@ -20,7 +20,7 @@ EaseVoice is a comprehensive digital invoicing platform designed to simplify the
 
 - Transparent Billing: The platform provides a transparent billing system, displaying the price, quantity, and tax on each item. It also calculates the total value of selected items in real-time.
 
-- Tax Calculation: Say goodbye to manual tax calculations! EaseVoice automates tax calculation based on the price range of each product, ensuring accurate billing.
+- Tax Calculation: Say goodbye to manual tax calculations! EaseVoice automates tax calculation based on the price range of each product, ensuring accurate billing.All the types of taxes like SA ,SB ,SC in services and PA,PB and PC on products are applied once you create invoice.
 
 - Invoicing creation: With the ability to review your total bill during checkout, you can be confident in your purchase decisions.
   
@@ -76,7 +76,7 @@ cd ../client && npm start
 - A payement gateway can be integrated which can give the functionality to place an order.
 
 ## Conclusion:
-- All the types of taxes like SA ,SB ,SC in services and PA,PB and PC on products are applied once you create invoice
+- All the types of taxes like SA ,SB ,SC in services and PA,PB and PC on products are applied once you create invoice.
 - The ability of clearing cart is also available.
 - Functionality for users to create an account is also integrated.
 - One can see all products and services information with their prices on "Your Cart" option.
