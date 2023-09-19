@@ -8,6 +8,8 @@ Deployed Link: http://lnkiy.in/easevoice
    - Password: 123456
 - (Use this if previous link doesnt works: https://lazy-cyan-cape-buffalo-cape.cyclic.cloud/login )
 
+### Please Note that"this reposirtory is hosted on cyclic and hence under the client folder it only has build folder, the frontend files used for this project are in this public repository, kept separated to avoid any conflicts in deployement: 
+https://github.com/abhinav2712/EaseVoice-Plotline-Frontend/tree/main
 
 Welcome to EaseVoice, your go-to MERN (MongoDB, Express.js, React.js, Node.js) app for effortless invoicing and seamless shopping. Say goodbye to invoicing headaches and hello to a smooth, user-friendly experience!
 
