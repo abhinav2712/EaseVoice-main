@@ -73,10 +73,11 @@ cd ../client && npm start
 - Node.js: A runtime environment for executing server-side JavaScript, enabling efficient server operations.
 
 ## Future Improvements: 🤝
-- A billing page can be made where all the previous orders can be displayed.
-- A customer page can also be made where all the customers who have bills and invoices are present in a list.
-- A payement gateway can be integrated which can give the functionality to place an order.
-
+- [ ] A billing page can be made where all the previous orders can be displayed.
+- [ ] A customer page can also be made where all the customers who have bills and invoices are present in a list.
+- [ ] A payement gateway can be integrated which can give the functionality to place an order.
+- [ ] Improving the UI/UX of the whole application
+  
 ## Conclusion:
 - All the types of taxes like SA ,SB ,SC in services and PA,PB and PC on products are applied once you create invoice.
 - The ability of clearing cart is also available.
