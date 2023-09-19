@@ -77,6 +77,7 @@ cd ../client && npm start
 - [ ] A customer page can also be made where all the customers who have bills and invoices are present in a list.
 - [ ] A payement gateway can be integrated which can give the functionality to place an order.
 - [ ] Improving the UI/UX of the whole application
+- [ ] Making the application responsive for all types of devices
   
 ## Conclusion:
 - All the types of taxes like SA ,SB ,SC in services and PA,PB and PC on products are applied once you create invoice.
