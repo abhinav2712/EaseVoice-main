@@ -1,2 +1,5 @@
 # EaseVoice-Plotline
-https://shorturl.at/svwBG
+
+
+http://lnkiy.in/easevoice
+https://lazy-cyan-cape-buffalo-cape.cyclic.cloud/login
