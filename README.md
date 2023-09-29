@@ -92,7 +92,4 @@ If you have any suggestions, issues or suggestions, I am open to all, you can co
 - Portfolio Webiste: https://abhinavkumar2712.vercel.app
 - LinkedIn: https://www.linkedin.com/in/abhinav-kumar-9639b4143/
 
-Your input is valuable in making EaseVoice the best it can be.
-
-Thank you for providing me with this opportunity, I hope I would be an valuable asset for Plotline!
-
+Thanks.
