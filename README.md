@@ -1,5 +1,3 @@
-### Presenting my software solution for Plotline's Assignment:
-
 # EaseVoice - Your Ultimate Invoicing Solution 🚀
 Deployed Link: http://lnkiy.in/easevoice
 
